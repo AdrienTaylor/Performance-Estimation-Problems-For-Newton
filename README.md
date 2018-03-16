@@ -1,6 +1,6 @@
 # Performance-Estimation-Problems-For-Newton
 
-This code can be used to reproduce the results from the work:
+This code can be used to reproduce the results from the work (on [arXiv](https://arxiv.org/abs/1709.05191)):
 
 > [1] de Klerk, Etienne, Francois Glineur, and Adrien Taylor. "Worst-case convergence analysis of gradient and Newton methods through semidefinite programming performance estimation." arXiv:1709.05191 (2017).
 
