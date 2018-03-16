@@ -2,7 +2,7 @@
 
 This code can be used to reproduce the results from the work:
 
-> [1] de Klerk, Etienne, Francois Glineur, and Adrien Taylor. "Worst-case convergence analysis of gradient and Newton methods through semidefinite programming performance estimation." arXiv preprint arXiv:1709.05191 (2017).
+> [1] de Klerk, Etienne, Francois Glineur, and Adrien Taylor. "Worst-case convergence analysis of gradient and Newton methods through semidefinite programming performance estimation." arXiv:1709.05191 (2017).
 
 ## Getting started
 
